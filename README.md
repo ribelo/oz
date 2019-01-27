@@ -22,7 +22,7 @@ Vega-Lite in particular focuses on maximal productivity and leverage for day to 
 
 Oz itself provides:
 
-* a REPL API for for pushing vega and vega-lite data to a browser window over a websocket (see `v!` and `view!`)
+* a REPL API for pushing vega and vega-lite data to a browser window over a websocket (see `v!` and `view!`)
 * client side `vega` and `vega-lite` Reagent components
 * an API for composing vega & vega-lite together in the context of html as hiccup for document and dashboard generation
 * plot/document publishing/sharing features via GitHub gists, the IDL's live [vega editor](http://vega.github.io/editor), and [ozviz.io](http://ozviz.io).
